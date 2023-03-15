@@ -2,7 +2,7 @@
 
 **TONFT** is a decentralized and open source **NFT bazaar-marketplace** where you can have **optional 0 royalties** on any **NFT sale**. Also, we invented and developed **smart fee system**, which is similar to real estate agents but in NFT world (described in the features below). The system creates incentives to trade NFTs more → contributes to the entire TON market volumes in general.
 
-![TONFT | NFT Bazaar](main_hero.png)
+![TONFT | NFT Bazaar](https://telegra.ph/file/8d9bb639a903e124cb802.png)
 
 ---
 
