@@ -17,6 +17,6 @@ The **features** we are proud of:
 
 Since the **start** of the hackathon (start of development) we were able to deliver MVP and already **sold** NFTs for **>3107 TON** and have **>30 unique wallets.**
 
-[TONFT.app](https://tonft.app/) | [TONFT Telegram](https://t.me/tonftapp)
+## [TONFT](https://tonft.app/) | [TONFT Channel](https://t.me/tonftapp) | [TONFT Alert](https://t.me/tonftalert)
 
 ![](https://telegra.ph/file/3e7287e7addd448f1aa11.png)
