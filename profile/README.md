@@ -19,4 +19,4 @@ Since the **start** of the hackathon (start of development) we were able to deli
 
 ## [TONFT](https://tonft.app/) | [TONFT Channel](https://t.me/tonftapp) | [TONFT Alert](https://t.me/tonftalert)
 
-![](https://telegra.ph/file/4c3fab2cb8ad9ccdd0801.png)
+![](https://telegra.ph/file/1b23b5f2d84619bb36da3.png)
